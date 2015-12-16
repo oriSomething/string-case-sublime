@@ -1,0 +1,6 @@
+[
+  { "caption": "String Case: to camel case", "command": "string_case", "args": { "convet_type": "camel_case" } },
+  { "caption": "String Case: to kebab case", "command": "string_case", "args": { "convet_type": "camel_kebab" } },
+  { "caption": "String Case: to pascal case", "command": "string_case", "args": { "convet_type": "camel_pascal" } },
+  { "caption": "String Case: to snake case", "command": "string_case", "args": { "convet_type": "camel_snake" } },
+]

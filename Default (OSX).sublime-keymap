@@ -1,0 +1,6 @@
+[
+  { "keys": ["super+.", "super+c"], "command": "string_case", "args": { "convet_type": "camel_case" } },
+  { "keys": ["super+.", "super+k"], "command": "string_case", "args": { "convet_type": "kebab_case" } },
+  { "keys": ["super+.", "super+p"], "command": "string_case", "args": { "convet_type": "pascal_case" } },
+  { "keys": ["super+.", "super+s"], "command": "string_case", "args": { "convet_type": "snake_case" } },
+]
